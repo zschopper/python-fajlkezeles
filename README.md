@@ -32,6 +32,10 @@ A lista elemeit rendre tároljuk el a nevek, nemek és korok listákban!
  - Mekkora az emberek átlagos életkora? 
  - Hány nő van alistában? 
  - Hány éves a legfiatalabb nő? 
- - Kérj be a felahsználótól egy új adatot és rögzítsd azt is a listában!
-
+ - Hozz étre egy új adatsort! 
+    - Kérd be a felahsználótól a nevet!
+    - A nemet addig kérd be, amíg a "férfi" vagy a "nő" szöveget nem adja meg! Minden más válasz esetén kérd be újra a nem értékét! és a nemet. 
+    - A kor értékének beállításához generálj egy véletlen számot 10 és 80 között!
+  - Az új adatsort csatold a meglévő fáj végére!
+  
 
