@@ -23,7 +23,7 @@ Minden sor végéről a nem kívánatos enter jelet el kell távolítani: aktsor
 Minden sort a szeparátor (,) mentén fel kell osztani: aktsor.split(',') => ennek eredménye egy lista, amiben az elemek vannak
 A lista elemeit rendre tároljuk el a nevek, nemek és korok listákban!
 
-#Feladat
+# Feladat
 
  - Forkold ezt a repositoryt és clone-ozd le!
  - Olvasd be a teszt.txt tartalmát!
