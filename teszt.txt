@@ -1,0 +1,6 @@
+név, nem, kor
+Béla, férfi, 23
+Jenő, férfi, 16
+Éva, nő, 63
+Ági, nő, 34
+András, férfi, 50
