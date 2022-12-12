@@ -5,7 +5,7 @@ import random
 def beolvas(fajlnev):
     fh = open(fajlnev, "r", encoding="utf-8")
     tartalom = fh.read()
-
+    fh.close()
     return tartalom
 
 
